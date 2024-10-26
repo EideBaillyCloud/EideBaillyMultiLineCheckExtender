@@ -1,4 +1,4 @@
-![Eide Bailly Multi-Line Check Extender Logo](assests/Multi_Line_Check_Extender350.png)
+![Eide Bailly Multi-Line Check Extender Logo](assets/Multi_Line_Check_Extender350.png)
 
 # Eide Bailly Multi-Line Check Extender Documentation
 
